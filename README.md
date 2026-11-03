@@ -17,3 +17,6 @@ Enzo Fernández
 - Git
 - GitHub
 - GitHub Projects
+## Estado del Proyecto
+
+Trabajo Práctico Integrador correspondiente a la asignatura Organización Empresarial.
